@@ -1,0 +1,11 @@
+{
+	"name": "discord-bot-project",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "AGPL-3.0-or-later",
+	"dependencies": {
+		"discord.js": "^13.6.0",
+		"dotenv": "^16.0.0",
+		"mathjs": "^10.4.3"
+	}
+}
